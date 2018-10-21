@@ -1,0 +1,10 @@
+{
+  "id": "DSGExampleMod",
+  "name": "Example mod",
+  "authors": [
+    "DeStilleGast"
+  ],
+  "listeners": [
+    "com.DeStilleGast.Example.Rift.Loader"
+  ]
+}

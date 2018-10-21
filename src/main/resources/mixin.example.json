@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7.7",
+  "package": "com.DeStilleGast.Example.Rift.mixin",
+  "refmap": "mixin.example.refmap.json",
+  "target": "@env(DEFAULT)",
+  "mixins": [
+    "MixinRenderSkybox"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
